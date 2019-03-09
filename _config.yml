@@ -20,14 +20,15 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/daniel-white
+gitlab_url:
+googleplus_url: 
+instagram_url: https://instagram.com/danielallanwhite
+linkedin_url: https://www.linkedin.com/in/danielawhite
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+stack_overflow_url: https://stackoverflow.com/users/23528/daniel-a-white
+twitter_url: https://twitter.com/thetrueaplus
 
 # build settings
 markdown: kramdown
