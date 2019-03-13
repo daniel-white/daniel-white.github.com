@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Daniel'
-description: 'I\'m a software engineer living in Indiana. On a journey of honing my craft through tireless experimentation'
+description: 'I am a software engineer living in Indiana. On a journey of honing my craft through tireless experimentation'
 image: null
 author: null
 show_tile: false
