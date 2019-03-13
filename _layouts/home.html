@@ -19,9 +19,10 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <p style="text-transform: uppercase;">{{ page.description }}</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" class="button next scrolly">Read about my journey</a></li>
+                    <li><a href="{{ "about-me.html" | relative_url }}" class="button next">About me</a></li>
                 </ul>
             </div>
         </div>
