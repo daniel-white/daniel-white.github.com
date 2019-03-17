@@ -31,7 +31,13 @@ stack_overflow_url: https://stackoverflow.com/users/23528/daniel-a-white
 twitter_url: https://twitter.com/thetrueaplus
 
 # build settings
-#markdown: kramdown
+highlighter: rouge
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 sass:
   style: compressed
